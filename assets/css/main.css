@@ -1,0 +1,20 @@
+body{font-size:1.2rem; font-family:  Montserrat,san-serif;line-height:1.8}
+a:focus, a:hover{border: 1px solid #006;color: #fff !important;}
+.navbar{border-bottom:5px solid #006}
+.nav-link{color:#006;font-weight: 700;}
+.adidas_logo{width:300px}
+.carousel-item img{height: 550px;}
+header{color:#fff;background: #006;}
+.panel{padding:1px;border:1px solid #d5d0d0}
+.setpad{padding:5px;text-align:center}
+.btn-primary,footer{background:#006}
+.footer{color:#fff;border-top:2px solid #e6e3e1}
+.footer h4{text-align: left;}
+footer ul{list-style: none;text-align: left;}
+.footer a{color:#fff;text-decoration: none;}
+.footer a:focus,.footer a:hover{text-decoration: underline;color:#fff;}
+@media (max-width:768px){
+    .carousel-item img{height: 300px;}
+    .footer h4,.footer ul{text-align: center;}
+
+}
