@@ -1,5 +1,5 @@
 body{font-size:1.2rem; font-family:  Montserrat,san-serif;line-height:1.8}
-a:focus, a:hover{border: 1px solid #006;color: #fff !important;}
+a:focus, a:hover{border: 1px solid #006;color: #000 !important;}
 .navbar{border-bottom:5px solid #006}
 .nav-link{color:#006;font-weight: 700;}
 .adidas_logo{width:300px}
